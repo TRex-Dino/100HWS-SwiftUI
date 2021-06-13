@@ -1,13 +1,10 @@
 # Drawing
-Different shapes
-**Flower**
+### Different shapes
+
 ![Flower](images/proj9.1.gif)
-**DrawingGroup**
 ![DrawingGroup](images/proj9.2.gif)
-**Trapezoid**
-![Trapezoid](images/proj9.3.gif)
-**Spirograph**
-![Spirograph](images/proj9.4.gif)
+![Trapezoid](images/Proj9.3.gif)
+![Spirograph](images/Proj9.4.gif)
 
 
 ## Day43-Day46
